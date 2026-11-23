@@ -1,6 +1,6 @@
 # Chengzhen Jiang
 
-M.S. student in Electrical and Computer Engineering at the University of Florida (graduating May 2027), applying for Ph.D. positions for Fall 2027.
+M.S. student in Electrical and Computer Engineering at the University of Florida (graduating May 2027).
 
 I work on verification for cyber-physical systems: runtime collision verification for multi-agent systems, reachability analysis for vision-based controllers, and AI-enabled digital twins.
 
